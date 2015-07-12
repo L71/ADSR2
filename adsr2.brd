@@ -2194,8 +2194,6 @@ Please make sure your boards conform to these design rules.</description>
 <contactref element="T3" pad="E"/>
 <contactref element="LED1" pad="A"/>
 <contactref element="T5" pad="E"/>
-<wire x1="8.255" y1="15.875" x2="10.16" y2="13.97" width="0.254" layer="1"/>
-<wire x1="10.16" y1="13.97" x2="19.05" y2="13.97" width="0.254" layer="1"/>
 <wire x1="19.05" y1="13.97" x2="19.685" y2="14.605" width="0.254" layer="1"/>
 <wire x1="19.685" y1="14.605" x2="19.685" y2="17.78" width="0.254" layer="1"/>
 <wire x1="29.21" y1="34.29" x2="29.21" y2="38.735" width="0.254" layer="1"/>
@@ -2219,7 +2217,8 @@ Please make sure your boards conform to these design rules.</description>
 <wire x1="37.06" y1="35.56" x2="37.06" y2="35.33" width="0.254" layer="1"/>
 <wire x1="37.06" y1="35.33" x2="39.37" y2="33.02" width="0.254" layer="1"/>
 <wire x1="39.37" y1="33.02" x2="39.37" y2="31.33" width="0.254" layer="1"/>
-<wire x1="5.885" y1="17.465" x2="8.255" y2="15.875" width="0" layer="19" extent="1-1"/>
+<wire x1="19.05" y1="13.97" x2="9.38" y2="13.97" width="0.254" layer="1"/>
+<wire x1="9.38" y1="13.97" x2="5.885" y2="17.465" width="0.254" layer="1"/>
 </signal>
 <signal name="SUST_LEVEL">
 <contactref element="R2" pad="P$2"/>
