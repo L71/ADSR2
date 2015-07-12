@@ -12209,7 +12209,7 @@ Based on the following sources:
 <part name="R13" library="rcl" deviceset="R-EU_" device="R0603" value="1k"/>
 <part name="CV_OUT" library="thonkiconn" deviceset="WQP-PJ301M-12_JACK" device=""/>
 <part name="GND16" library="supply1" deviceset="GND" device=""/>
-<part name="SW1_TIME" library="lb_devs" deviceset="TL2285" device=""/>
+<part name="SW1_TIME" library="lb_devs" deviceset="TL2285" device="" value="TL2285 L"/>
 <part name="C11" library="rcl" deviceset="C-EU" device="C1206K" value="4u7"/>
 <part name="C12" library="rcl" deviceset="C-EU" device="C0603K" value="4u7"/>
 <part name="GND18" library="supply1" deviceset="GND" device=""/>
@@ -12239,14 +12239,14 @@ Based on the following sources:
 <part name="D3" library="adafruit" deviceset="DIODE" device="SOD-323F" value="1N4148"/>
 <part name="D4" library="adafruit" deviceset="DIODE" device="SOD-323F" value="1N4148"/>
 <part name="D5" library="adafruit" deviceset="DIODE" device="SOD-323F" value="1N4148"/>
-<part name="SW2_TRIG" library="lb_devs" deviceset="TL2285" device=""/>
+<part name="SW2_TRIG" library="lb_devs" deviceset="TL2285" device="" value="TL2285 L"/>
 <part name="P+7" library="supply1" deviceset="+12V" device=""/>
 <part name="R15" library="rcl" deviceset="R-EU_" device="R0603" value="470"/>
 <part name="R22" library="rcl" deviceset="R-EU_" device="R0603" value="1k"/>
 <part name="R23" library="rcl" deviceset="R-EU_" device="R0603" value="1k"/>
 <part name="GATE_THRU" library="thonkiconn" deviceset="WQP-PJ301M-12_JACK" device=""/>
 <part name="GND8" library="supply1" deviceset="GND" device=""/>
-<part name="SW_MANUAL" library="lb_devs" deviceset="TL2285" device=""/>
+<part name="SW_MANUAL" library="lb_devs" deviceset="TL2285" device="" value="TL2285 Mom."/>
 <part name="R6" library="rcl" deviceset="R-EU_" device="R0603" value="100k"/>
 <part name="P+8" library="supply1" deviceset="+12V" device=""/>
 <part name="D2" library="adafruit" deviceset="DIODE" device="SOD-323F" value="1N4148"/>
