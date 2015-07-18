@@ -12130,10 +12130,10 @@ factor (0603 or 1206) caps on the PCB.</text>
 Gated / Triggered Attack
 (press -&gt; triggered, always completes attack phase even if gate goes low/off)</text>
 <text x="43.18" y="104.14" size="1.778" layer="91">Sustain level buffer</text>
-<text x="43.18" y="139.7" size="1.778" layer="91">Comparator: output goes high when
+<text x="35.56" y="142.24" size="1.778" layer="91">Comparator: output goes high when
 attack peak level reached on capacitor</text>
-<text x="91.44" y="160.02" size="1.778" layer="91">R15, R22, R23: Current limiting resistors
-The CD4066 is limited to 10mA.</text>
+<text x="127" y="93.98" size="1.778" layer="91">R15, R22, R23: Current limiting resistors
+The switches in IC2 are limited to 10mA.</text>
 <text x="17.78" y="200.66" size="1.778" layer="91">TL2285 momentary
 Manual trigger button</text>
 </plain>
