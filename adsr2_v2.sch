@@ -12066,7 +12066,7 @@ Based on the following sources:
 <part name="R19" library="rcl" deviceset="R-EU_" device="R0603" value="10k"/>
 <part name="GND21" library="supply1" deviceset="GND" device=""/>
 <part name="P+2" library="supply1" deviceset="+12V" device=""/>
-<part name="R1" library="rcl" deviceset="R-EU_" device="R0603" value="470"/>
+<part name="R1" library="rcl" deviceset="R-EU_" device="R0603" value="1k"/>
 <part name="R18" library="rcl" deviceset="R-EU_" device="R0603" value="39k"/>
 <part name="P+3" library="supply1" deviceset="+12V" device=""/>
 <part name="P+4" library="supply1" deviceset="+12V" device=""/>

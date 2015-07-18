@@ -1841,7 +1841,7 @@ Please make sure your boards conform to these design rules.</description>
 <element name="CV_OUT" library="thonkiconn" package="WQP-PJ301M-12_JACK" value="WQP-PJ301M-12_JACK" x="3.81" y="31.75" smashed="yes" rot="MR180">
 <attribute name="NAME" x="0.6096" y="37.7952" size="1.27" layer="22" rot="MR180"/>
 </element>
-<element name="R1" library="rcl" package="R0603" value="470" x="40.64" y="30.48" smashed="yes" rot="R90">
+<element name="R1" library="rcl" package="R0603" value="1k" x="40.64" y="30.48" smashed="yes" rot="R90">
 <attribute name="NAME" x="42.545" y="30.48" size="0.8128" layer="25" font="vector" rot="R90"/>
 </element>
 <element name="R10" library="rcl" package="R0603" value="10k" x="19.685" y="23.495" smashed="yes" rot="R180">
