@@ -12061,7 +12061,7 @@ Based on the following sources:
 <part name="C11" library="rcl" deviceset="C-EU" device="C1206K" value="4u7"/>
 <part name="C12" library="rcl" deviceset="C-EU" device="C0603K" value="4u7"/>
 <part name="GND18" library="supply1" deviceset="GND" device=""/>
-<part name="AT_TRIG" library="thonkiconn" deviceset="WQP-PJ301M-12_JACK" device=""/>
+<part name="PEAK_OUT" library="thonkiconn" deviceset="WQP-PJ301M-12_JACK" device=""/>
 <part name="GND19" library="supply1" deviceset="GND" device=""/>
 <part name="R19" library="rcl" deviceset="R-EU_" device="R0603" value="10k"/>
 <part name="GND21" library="supply1" deviceset="GND" device=""/>
@@ -12171,7 +12171,7 @@ Manual trigger button</text>
 <instance part="C11" gate="G$1" x="226.06" y="106.68"/>
 <instance part="C12" gate="G$1" x="218.44" y="106.68"/>
 <instance part="GND18" gate="1" x="220.98" y="91.44"/>
-<instance part="AT_TRIG" gate="G$1" x="307.34" y="193.04"/>
+<instance part="PEAK_OUT" gate="G$1" x="307.34" y="193.04"/>
 <instance part="GND19" gate="1" x="299.72" y="185.42"/>
 <instance part="R19" gate="G$1" x="193.04" y="101.6" rot="R90"/>
 <instance part="GND21" gate="1" x="193.04" y="91.44"/>
@@ -12345,7 +12345,7 @@ Manual trigger button</text>
 <junction x="220.98" y="96.52"/>
 </segment>
 <segment>
-<pinref part="AT_TRIG" gate="G$1" pin="1"/>
+<pinref part="PEAK_OUT" gate="G$1" pin="1"/>
 <wire x1="302.26" y1="190.5" x2="299.72" y2="190.5" width="0.1524" layer="91"/>
 <pinref part="GND19" gate="1" pin="GND"/>
 <wire x1="299.72" y1="190.5" x2="299.72" y2="187.96" width="0.1524" layer="91"/>
@@ -12659,7 +12659,7 @@ Manual trigger button</text>
 <wire x1="48.26" y1="129.54" x2="25.4" y2="129.54" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="ATTACK_DONE" class="0">
+<net name="PEAK" class="0">
 <segment>
 <pinref part="IC1" gate="A" pin="OUT"/>
 <wire x1="63.5" y1="132.08" x2="71.12" y2="132.08" width="0.1524" layer="91"/>
@@ -12887,7 +12887,7 @@ Manual trigger button</text>
 <pinref part="R26" gate="G$1" pin="2"/>
 <pinref part="R27" gate="G$1" pin="1"/>
 <wire x1="287.02" y1="198.12" x2="287.02" y2="195.58" width="0.1524" layer="91"/>
-<pinref part="AT_TRIG" gate="G$1" pin="2"/>
+<pinref part="PEAK_OUT" gate="G$1" pin="2"/>
 <wire x1="287.02" y1="195.58" x2="287.02" y2="193.04" width="0.1524" layer="91"/>
 <wire x1="302.26" y1="195.58" x2="287.02" y2="195.58" width="0.1524" layer="91"/>
 <junction x="287.02" y="195.58"/>
