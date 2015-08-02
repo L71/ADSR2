@@ -10851,6 +10851,11 @@ attack peak level reached on capacitor</text>
 The switches in IC2 are limited to 10mA.</text>
 <text x="45.72" y="233.68" size="1.778" layer="91">TL2285 momentary
 Manual trigger button</text>
+<text x="91.44" y="114.3" size="1.778" layer="91">Attack</text>
+<text x="91.44" y="139.7" size="1.778" layer="91">Release</text>
+<text x="91.44" y="88.9" size="1.778" layer="91">Decay</text>
+<text x="20.32" y="93.98" size="1.778" layer="91">Sustain
+Level</text>
 </plain>
 <instances>
 <instance part="JP1" gate="A" x="38.1" y="25.4"/>
