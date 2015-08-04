@@ -1832,8 +1832,8 @@ Please make sure your boards conform to these design rules.</description>
 <element name="C9" library="rcl" package="C0603K" value="100n" x="36.83" y="23.495" smashed="yes" rot="R90">
 <attribute name="NAME" x="37.935" y="23.51" size="0.8128" layer="25" font="vector"/>
 </element>
-<element name="D1" library="diode" package="DO214AA" value="1N4004 equiv" x="37.465" y="38.1" smashed="yes">
-<attribute name="NAME" x="38.2" y="36.664" size="0.8128" layer="25" font="vector" ratio="10" rot="R180"/>
+<element name="D1" library="diode" package="DO214AA" value="1N4004 equiv" x="35.56" y="38.1" smashed="yes">
+<attribute name="NAME" x="36.295" y="36.664" size="0.8128" layer="25" font="vector" ratio="10" rot="R180"/>
 </element>
 <element name="D4" library="adafruit" package="SOD-323F" value="1N4148" x="88.9" y="17.145" smashed="yes" rot="R270">
 <attribute name="NAME" x="88.37" y="18.68" size="0.8128" layer="25" font="vector"/>
@@ -1951,7 +1951,7 @@ Please make sure your boards conform to these design rules.</description>
 <contactref element="JP1" pad="2"/>
 <contactref element="D1" pad="A"/>
 <wire x1="44.45" y1="38.1" x2="44.45" y2="35.56" width="0.8128" layer="1"/>
-<wire x1="44.45" y1="38.1" x2="40.015" y2="38.1" width="0.8128" layer="1"/>
+<wire x1="44.45" y1="38.1" x2="38.11" y2="38.1" width="0.8128" layer="1"/>
 </signal>
 <signal name="GND">
 <contactref element="JP1" pad="3"/>
@@ -2101,7 +2101,7 @@ Please make sure your boards conform to these design rules.</description>
 <wire x1="81.28" y1="18.415" x2="80.645" y2="19.05" width="0.254" layer="1"/>
 <wire x1="80.645" y1="19.05" x2="80.645" y2="21.59" width="0.254" layer="1"/>
 <wire x1="80.645" y1="21.59" x2="81.28" y2="22.225" width="0.254" layer="1"/>
-<wire x1="34.915" y1="38.1" x2="32.385" y2="38.1" width="0.8128" layer="1"/>
+<wire x1="33.01" y1="38.1" x2="32.385" y2="38.1" width="0.8128" layer="1"/>
 <wire x1="32.385" y1="38.1" x2="30.075" y2="38.1" width="0.8128" layer="1"/>
 <wire x1="40.005" y1="31.33" x2="39.155" y2="31.33" width="0.254" layer="1"/>
 <wire x1="39.155" y1="31.33" x2="34.925" y2="35.56" width="0.254" layer="1"/>
