@@ -1944,7 +1944,7 @@ Please make sure your boards conform to these design rules.</description>
 <attribute name="NAME" x="73.025" y="11.43" size="0.8128" layer="25" font="vector" rot="R90"/>
 </element>
 <element name="R2" library="pot-alps" package="ALPS_POT_VERTICAL" value="100k" x="58.42" y="30.48" rot="MR270"/>
-<element name="R20" library="rcl" package="R0603" value="100k" x="13.335" y="18.415" smashed="yes">
+<element name="R20" library="rcl" package="R0603" value="10k" x="13.335" y="18.415" smashed="yes">
 <attribute name="NAME" x="12.065" y="16.51" size="0.8128" layer="25" font="vector"/>
 </element>
 <element name="R21" library="rcl" package="R0603" value="10k" x="19.685" y="15.875" smashed="yes">
@@ -1959,7 +1959,7 @@ Please make sure your boards conform to these design rules.</description>
 <element name="R3" library="pot-alps" package="ALPS_POT_VERTICAL" value="1M" x="40.64" y="30.48" rot="MR270"/>
 <element name="R4" library="pot-alps" package="ALPS_POT_VERTICAL" value="1M" x="76.2" y="30.48" rot="MR270"/>
 <element name="R5" library="pot-alps" package="ALPS_POT_VERTICAL" value="1M" x="93.98" y="30.48" rot="MR270"/>
-<element name="R9" library="rcl" package="R0603" value="100k" x="12.7" y="24.765" smashed="yes">
+<element name="R9" library="rcl" package="R0603" value="10k" x="12.7" y="24.765" smashed="yes">
 <attribute name="NAME" x="11.43" y="26.035" size="0.8128" layer="25" font="vector"/>
 </element>
 <element name="SW1_TIME" library="lb_devs" package="TL2285_PCB" value="TL2285 L" x="67.31" y="17.78" rot="MR0"/>
@@ -1979,7 +1979,7 @@ Please make sure your boards conform to these design rules.</description>
 <element name="D2" library="adafruit" package="SOD-323F" value="1N4148" x="81.28" y="30.48" smashed="yes" rot="R270">
 <attribute name="NAME" x="79.64" y="31.01" size="0.8128" layer="25" font="vector" rot="R270"/>
 </element>
-<element name="R7" library="rcl" package="R0603" value="100k" x="6.985" y="23.495" smashed="yes" rot="R180">
+<element name="R7" library="rcl" package="R0603" value="10k" x="6.985" y="23.495" smashed="yes" rot="R180">
 <attribute name="NAME" x="7.62" y="22.225" size="0.8128" layer="25" font="vector" rot="R180"/>
 </element>
 <element name="T3" library="transistor" package="SOT23-BEC" value="BC857" x="6.985" y="18.415" smashed="yes" rot="R270">
@@ -2005,7 +2005,7 @@ Please make sure your boards conform to these design rules.</description>
 <element name="LED1" library="led" package="LED3MM" value="AT_TRIG_LED" x="26.67" y="34.29" smashed="yes" rot="MR90">
 <attribute name="NAME" x="29.591" y="31.75" size="1.27" layer="26" ratio="10" rot="MR90"/>
 </element>
-<element name="R25" library="rcl" package="R0603" value="100k" x="13.335" y="35.56" smashed="yes" rot="R270">
+<element name="R25" library="rcl" package="R0603" value="10k" x="13.335" y="35.56" smashed="yes" rot="R270">
 <attribute name="NAME" x="12.065" y="34.925" size="0.8128" layer="25" font="vector" rot="R90"/>
 </element>
 <element name="T5" library="transistor" package="SOT23-BEC" value="BC857" x="13.97" y="31.115" smashed="yes" rot="R270">
