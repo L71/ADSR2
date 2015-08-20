@@ -10773,7 +10773,7 @@ DIN A3, landscape with extra doc field</description>
 <part name="GATE_IN" library="thonkiconn" deviceset="WQP-PJ301M-12_JACK" device=""/>
 <part name="R9" library="rcl" deviceset="R-EU_" device="R0603" value="100k"/>
 <part name="T1" library="transistor" deviceset="BC847" device=""/>
-<part name="R10" library="rcl" deviceset="R-EU_" device="R0603" value="10k"/>
+<part name="R10" library="rcl" deviceset="R-EU_" device="R0603" value="27k"/>
 <part name="GND13" library="supply1" deviceset="GND" device=""/>
 <part name="GND14" library="supply1" deviceset="GND" device=""/>
 <part name="C1" library="rcl" deviceset="C-EU" device="C1206K" value="10u 16V"/>
@@ -10813,7 +10813,7 @@ DIN A3, landscape with extra doc field</description>
 <part name="R8" library="rcl" deviceset="R-EU_" device="R0603" value="4k7"/>
 <part name="R16" library="rcl" deviceset="R-EU_" device="R0603" value="3k3"/>
 <part name="GND10" library="supply1" deviceset="GND" device=""/>
-<part name="R24" library="rcl" deviceset="R-EU_" device="R0603" value="10k"/>
+<part name="R24" library="rcl" deviceset="R-EU_" device="R0603" value="27k"/>
 <part name="LED1" library="led" deviceset="LED" device="5MM" value="PEAK_LED"/>
 <part name="P+10" library="supply1" deviceset="+12V" device=""/>
 <part name="R26" library="rcl" deviceset="R-EU_" device="R0603" value="4k7"/>
