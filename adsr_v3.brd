@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.1.0">
+<eagle version="7.4.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -143,7 +143,7 @@
 <wire x1="56.515" y1="38.735" x2="56.515" y2="34.925" width="0.8128" layer="25"/>
 <text x="53.34" y="33.655" size="1.27" layer="25" font="vector" rot="SR270">RED/-12V
 &lt;- HERE</text>
-<text x="71.12" y="36.83" size="1.016" layer="25" font="vector">CMOS based ADSR - 3.0 20150802
+<text x="26.67" y="11.43" size="0.8128" layer="25" font="vector" rot="SR0">CMOS based ADSR - 3.0 20150802
 cc-by-sa 2015 Lars Bengtsson</text>
 <text x="60.325" y="38.735" size="5.08" layer="25" font="vector" rot="SR270">ADSR</text>
 <text x="43.815" y="19.685" size="1.778" layer="25" font="vector">o</text>
@@ -152,6 +152,7 @@ cc-by-sa 2015 Lars Bengtsson</text>
 capacitors</text>
 <text x="35.56" y="21.59" size="6.4516" layer="26" font="vector" rot="SMR180">ADSR</text>
 <text x="14.605" y="27.305" size="1.778" layer="25" font="vector">o</text>
+<hole x="84.455" y="36.83" drill="3.2"/>
 </plain>
 <libraries>
 <library name="rcl">
